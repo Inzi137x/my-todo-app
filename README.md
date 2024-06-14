@@ -2,6 +2,10 @@
 
 This is a simple To-Do List application built with React. It allows users to add, remove, and mark tasks as completed. The tasks are persisted in localStorage.
 
+# Overview
+
+![screenshot](./src/Screenshot.png)
+
 ## Features
 
 - Add new tasks
